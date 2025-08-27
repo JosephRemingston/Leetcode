@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
 |  |
@@ -14,5 +15,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## Array
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
