@@ -5,14 +5,15 @@ class Solution {
         int r = 0;
         int maxSum = 0;
         int sum = 0;
-        HashMap<Integer , Integer> hashMap = new HashMap<>();
+        Set<Integer> hashMap = new HashSet<>();
         for(int i = 0 ; i < nums.length ; i++){
-            sum = sum + nums[i];
-            hashMap.put(nums[i] , hashMap.getOrDefault(nums[i] , 0) + 1);
-            if(hashMap.get(nums[i]) > 1){
-                l = i - 1;
-                sum = sum - nums[i];
+            while(hashMap.contains(nums[i])){
+                hashMap.remove(nums[l]);
+                sum = sum - nums[l];
+                l++;
             }
+            sum = sum + nums[i];
+            hashMap.add(nums[i]);
             maxSum = Math.max(maxSum , sum);
         }
         return maxSum;
