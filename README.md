@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JosephRemingston/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/JosephRemingston/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JosephRemingston/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JosephRemingston/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
+| [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JosephRemingston/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
