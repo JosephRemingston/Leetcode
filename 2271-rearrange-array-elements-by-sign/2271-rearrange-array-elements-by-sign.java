@@ -1,33 +1,21 @@
-import java.util.*;
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        int[] arr = new int[nums.length];
-        int[] positiveArr = new int[nums.length / 2];
-        int[] negativeArr = new int[nums.length / 2];
-        int positiveIndex = 0;
-        int negativeIndex = 0;
-        for(int i = 0 ; i < nums.length ; i++){
-            if(nums[i] > 0){
-                positiveArr[positiveIndex] = nums[i];
-                positiveIndex++;
-            }
-            if(nums[i] < 0){
-                negativeArr[negativeIndex] = nums[i];
-                negativeIndex++;
-            }
-        }
-        positiveIndex = 0;
-        negativeIndex = 0;
-        for(int i = 0 ; i < nums.length ; i++){
-            if(i % 2 == 0){
-                arr[i] = positiveArr[positiveIndex];
-                positiveIndex++;
-            }
-            if(i % 2 != 0){
-                arr[i] = negativeArr[negativeIndex];
-                negativeIndex++;
+        int n = nums.length;
+        int[] arr = new int[n];
+        
+        int posIndex = 0; // start filling positives at even indices
+        int negIndex = 1; // start filling negatives at odd indices
+        
+        for (int num : nums) {
+            if (num > 0) {
+                arr[posIndex] = num;
+                posIndex += 2;
+            } else {
+                arr[negIndex] = num;
+                negIndex += 2;
             }
         }
+        
         return arr;
     }
 }
