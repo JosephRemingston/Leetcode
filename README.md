@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/JosephRemingston/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Binary Search
 |  |
 | ------- |
