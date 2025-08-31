@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/JosephRemingston/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/JosephRemingston/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/JosephRemingston/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2673-maximize-win-from-two-segments](https://github.com/JosephRemingston/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
+| [2786-find-the-longest-semi-repetitive-substring](https://github.com/JosephRemingston/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 ## Array
 |  |
 | ------- |
