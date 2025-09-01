@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2673-maximize-win-from-two-segments](https://github.com/JosephRemingston/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/JosephRemingston/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Array
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JosephRemingston/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2673-maximize-win-from-two-segments](https://github.com/JosephRemingston/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
