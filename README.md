@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JosephRemingston/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JosephRemingston/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
