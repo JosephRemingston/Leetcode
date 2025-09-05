@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JosephRemingston/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JosephRemingston/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/JosephRemingston/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JosephRemingston/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JosephRemingston/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -133,8 +137,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/JosephRemingston/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
