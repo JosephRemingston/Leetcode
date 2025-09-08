@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JosephRemingston/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JosephRemingston/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/JosephRemingston/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/JosephRemingston/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JosephRemingston/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JosephRemingston/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/JosephRemingston/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/JosephRemingston/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JosephRemingston/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JosephRemingston/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/JosephRemingston/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/JosephRemingston/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Array
 |  |
