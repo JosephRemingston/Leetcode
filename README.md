@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/JosephRemingston/Leetcode/tree/master/1044-find-common-characters) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/JosephRemingston/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/JosephRemingston/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/JosephRemingston/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/JosephRemingston/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/JosephRemingston/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
