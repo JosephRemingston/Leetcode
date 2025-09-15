@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JosephRemingston/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/JosephRemingston/Leetcode/tree/master/0575-distribute-candies) |
 | [1044-find-common-characters](https://github.com/JosephRemingston/Leetcode/tree/master/1044-find-common-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/JosephRemingston/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/JosephRemingston/Leetcode/tree/master/1044-find-common-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/JosephRemingston/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/JosephRemingston/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/JosephRemingston/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
