@@ -1,7 +1,14 @@
 class Solution {
     public int reverseBits(int n) {
-        String originalBinary = String.format("%32s", Integer.toBinaryString(n)).replace(' ', '0'); // pad to 32 bits
-        String reversedBinary = new StringBuilder(originalBinary).reverse().toString();
-        return (int) Long.parseLong(reversedBinary, 2); // parse as base 2
+        int result = 0;
+        for (int i = 0; i < 32; i++) {
+            // shift result left to make room for the next bit
+            result <<= 1;
+            // add the last bit of n to result
+            result |= (n & 1);
+            // shift n right to process the next bit
+            n >>= 1;
+        }
+        return result;
     }
 }
