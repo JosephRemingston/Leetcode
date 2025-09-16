@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/JosephRemingston/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JosephRemingston/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/JosephRemingston/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/JosephRemingston/Leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/JosephRemingston/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/JosephRemingston/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/JosephRemingston/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
