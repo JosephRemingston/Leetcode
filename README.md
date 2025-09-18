@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JosephRemingston/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/JosephRemingston/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/JosephRemingston/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3678-design-task-manager](https://github.com/JosephRemingston/Leetcode/tree/master/3678-design-task-manager) |
 ## String
 |  |
 | ------- |
@@ -155,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/JosephRemingston/Leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/JosephRemingston/Leetcode/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/JosephRemingston/Leetcode/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/JosephRemingston/Leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
