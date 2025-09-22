@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/JosephRemingston/Leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JosephRemingston/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/JosephRemingston/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JosephRemingston/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Two Pointers
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JosephRemingston/Leetcode/tree/master/0169-majority-element) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
