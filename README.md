@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/JosephRemingston/Leetcode/tree/master/0165-compare-version-numbers) |
 | [1044-find-common-characters](https://github.com/JosephRemingston/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JosephRemingston/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/JosephRemingston/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JosephRemingston/Leetcode/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/JosephRemingston/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/JosephRemingston/Leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JosephRemingston/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
