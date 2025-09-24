@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JosephRemingston/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/JosephRemingston/Leetcode/tree/master/0036-valid-sudoku) |
+| [0166-fraction-to-recurring-decimal](https://github.com/JosephRemingston/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/JosephRemingston/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/JosephRemingston/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/JosephRemingston/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/JosephRemingston/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1044-find-common-characters](https://github.com/JosephRemingston/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JosephRemingston/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/JosephRemingston/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/JosephRemingston/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/JosephRemingston/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JosephRemingston/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
