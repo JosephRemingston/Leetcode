@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/JosephRemingston/Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JosephRemingston/Leetcode/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JosephRemingston/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/JosephRemingston/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/0053-maximum-subarray) |
+| [0120-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JosephRemingston/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/JosephRemingston/Leetcode/tree/master/0338-counting-bits) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
