@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/JosephRemingston/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/JosephRemingston/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/JosephRemingston/Leetcode/tree/master/0575-distribute-candies) |
+| [0830-largest-triangle-area](https://github.com/JosephRemingston/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1044-find-common-characters](https://github.com/JosephRemingston/Leetcode/tree/master/1044-find-common-characters) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JosephRemingston/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/JosephRemingston/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/JosephRemingston/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
+| [0830-largest-triangle-area](https://github.com/JosephRemingston/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JosephRemingston/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/JosephRemingston/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/JosephRemingston/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/JosephRemingston/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/JosephRemingston/Leetcode/tree/master/3678-design-task-manager) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/JosephRemingston/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
