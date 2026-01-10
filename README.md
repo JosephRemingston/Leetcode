@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JosephRemingston/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/JosephRemingston/Leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/JosephRemingston/Leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/JosephRemingston/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Array
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JosephRemingston/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3634-minimum-removals-to-balance-array](https://github.com/JosephRemingston/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Two Pointers
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/JosephRemingston/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3634-minimum-removals-to-balance-array](https://github.com/JosephRemingston/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Divide and Conquer
 |  |
