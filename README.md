@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-replace-the-substring-for-balanced-string](https://github.com/JosephRemingston/Leetcode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/JosephRemingston/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JosephRemingston/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2673-maximize-win-from-two-segments](https://github.com/JosephRemingston/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/JosephRemingston/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/JosephRemingston/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JosephRemingston/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JosephRemingston/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/JosephRemingston/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JosephRemingston/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2673-maximize-win-from-two-segments](https://github.com/JosephRemingston/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JosephRemingston/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JosephRemingston/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2887-sort-vowels-in-a-string](https://github.com/JosephRemingston/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/JosephRemingston/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
