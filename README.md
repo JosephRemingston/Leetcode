@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/JosephRemingston/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/JosephRemingston/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/JosephRemingston/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0830-largest-triangle-area](https://github.com/JosephRemingston/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JosephRemingston/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/JosephRemingston/Leetcode/tree/master/0367-valid-perfect-square) |
 | [2673-maximize-win-from-two-segments](https://github.com/JosephRemingston/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 ## Bit Manipulation
 |  |
