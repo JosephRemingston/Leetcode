@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/JosephRemingston/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JosephRemingston/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2673-maximize-win-from-two-segments](https://github.com/JosephRemingston/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
+| [2706-buy-two-chocolates](https://github.com/JosephRemingston/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2954-maximum-sum-of-almost-unique-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/2954-maximum-sum-of-almost-unique-subarray) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JosephRemingston/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2706-buy-two-chocolates](https://github.com/JosephRemingston/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/JosephRemingston/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/JosephRemingston/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JosephRemingston/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [2706-buy-two-chocolates](https://github.com/JosephRemingston/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Linked List
 |  |
 | ------- |
