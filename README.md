@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/JosephRemingston/Leetcode/tree/master/0575-distribute-candies) |
 | [0830-largest-triangle-area](https://github.com/JosephRemingston/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1037-valid-boomerang](https://github.com/JosephRemingston/Leetcode/tree/master/1037-valid-boomerang) |
 | [1044-find-common-characters](https://github.com/JosephRemingston/Leetcode/tree/master/1044-find-common-characters) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/JosephRemingston/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JosephRemingston/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/JosephRemingston/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0830-largest-triangle-area](https://github.com/JosephRemingston/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1037-valid-boomerang](https://github.com/JosephRemingston/Leetcode/tree/master/1037-valid-boomerang) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JosephRemingston/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JosephRemingston/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/JosephRemingston/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/JosephRemingston/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1037-valid-boomerang](https://github.com/JosephRemingston/Leetcode/tree/master/1037-valid-boomerang) |
 ## Greedy
 |  |
 | ------- |
