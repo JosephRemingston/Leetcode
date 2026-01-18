@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/JosephRemingston/Leetcode/tree/master/0575-distribute-candies) |
 | [1044-find-common-characters](https://github.com/JosephRemingston/Leetcode/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JosephRemingston/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/JosephRemingston/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2023-design-movie-rental-system](https://github.com/JosephRemingston/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JosephRemingston/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/JosephRemingston/Leetcode/tree/master/1037-valid-boomerang) |
 | [1044-find-common-characters](https://github.com/JosephRemingston/Leetcode/tree/master/1044-find-common-characters) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/JosephRemingston/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/JosephRemingston/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JosephRemingston/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/JosephRemingston/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JosephRemingston/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/JosephRemingston/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/JosephRemingston/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/JosephRemingston/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/JosephRemingston/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/JosephRemingston/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JosephRemingston/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/JosephRemingston/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/JosephRemingston/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/JosephRemingston/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2673-maximize-win-from-two-segments](https://github.com/JosephRemingston/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 ## Bit Manipulation
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JosephRemingston/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/JosephRemingston/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JosephRemingston/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2706-buy-two-chocolates](https://github.com/JosephRemingston/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/JosephRemingston/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
