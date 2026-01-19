@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JosephRemingston/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JosephRemingston/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JosephRemingston/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/JosephRemingston/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/JosephRemingston/Leetcode/tree/master/0575-distribute-candies) |
 | [1044-find-common-characters](https://github.com/JosephRemingston/Leetcode/tree/master/1044-find-common-characters) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JosephRemingston/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JosephRemingston/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/JosephRemingston/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/JosephRemingston/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/JosephRemingston/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/JosephRemingston/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JosephRemingston/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JosephRemingston/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/JosephRemingston/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/JosephRemingston/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -190,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JosephRemingston/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/JosephRemingston/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/JosephRemingston/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/JosephRemingston/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JosephRemingston/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/JosephRemingston/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JosephRemingston/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/JosephRemingston/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2023-design-movie-rental-system](https://github.com/JosephRemingston/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -294,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JosephRemingston/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/JosephRemingston/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JosephRemingston/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/JosephRemingston/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
