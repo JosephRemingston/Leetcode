@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JosephRemingston/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/JosephRemingston/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/JosephRemingston/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/JosephRemingston/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/JosephRemingston/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/JosephRemingston/Leetcode/tree/master/0169-majority-element) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JosephRemingston/Leetcode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/JosephRemingston/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/JosephRemingston/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/JosephRemingston/Leetcode/tree/master/0242-valid-anagram) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JosephRemingston/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/JosephRemingston/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/JosephRemingston/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/JosephRemingston/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JosephRemingston/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JosephRemingston/Leetcode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/0120-triangle) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JosephRemingston/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/JosephRemingston/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JosephRemingston/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JosephRemingston/Leetcode/tree/master/0217-contains-duplicate) |
