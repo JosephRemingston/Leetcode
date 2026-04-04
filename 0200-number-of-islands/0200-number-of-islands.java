@@ -3,16 +3,16 @@ class Solution {
     public int numIslands(char[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
-        int c = 0;
+        int count = 0;
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(grid[i][j] == '1'){
                     dfs(grid, i, j);
-                    c++;
+                    count++;
                 }
             }
         }
-        return c;
+        return count;
     }
     public void dfs(char[][] grid, int i, int j){
         int m = grid.length;
