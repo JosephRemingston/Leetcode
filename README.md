@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JosephRemingston/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/JosephRemingston/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/JosephRemingston/Leetcode/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/JosephRemingston/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
 |  |
 | ------- |
