@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/JosephRemingston/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/JosephRemingston/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/JosephRemingston/Leetcode/tree/master/0575-distribute-candies) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/JosephRemingston/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0830-largest-triangle-area](https://github.com/JosephRemingston/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/JosephRemingston/Leetcode/tree/master/1037-valid-boomerang) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JosephRemingston/Leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/JosephRemingston/Leetcode/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/JosephRemingston/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/JosephRemingston/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/JosephRemingston/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/JosephRemingston/Leetcode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Matrix
@@ -378,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/JosephRemingston/Leetcode/tree/master/0207-course-schedule) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/JosephRemingston/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/JosephRemingston/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
