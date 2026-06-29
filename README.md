@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JosephRemingston/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/JosephRemingston/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JosephRemingston/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/JosephRemingston/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2673-maximize-win-from-two-segments](https://github.com/JosephRemingston/Leetcode/tree/master/2673-maximize-win-from-two-segments) |
 | [2706-buy-two-chocolates](https://github.com/JosephRemingston/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/JosephRemingston/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/JosephRemingston/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/JosephRemingston/Leetcode/tree/master/1037-valid-boomerang) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JosephRemingston/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/JosephRemingston/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JosephRemingston/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/JosephRemingston/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/JosephRemingston/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/JosephRemingston/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JosephRemingston/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/JosephRemingston/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2706-buy-two-chocolates](https://github.com/JosephRemingston/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2887-sort-vowels-in-a-string](https://github.com/JosephRemingston/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/JosephRemingston/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/JosephRemingston/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2023-design-movie-rental-system](https://github.com/JosephRemingston/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/JosephRemingston/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2868-continuous-subarrays](https://github.com/JosephRemingston/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/JosephRemingston/Leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/JosephRemingston/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/JosephRemingston/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Interactive
 |  |
