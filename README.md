@@ -411,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/JosephRemingston/Leetcode/tree/master/1408-string-matching-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/JosephRemingston/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
